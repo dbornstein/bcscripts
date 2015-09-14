@@ -20,7 +20,7 @@ urllib3.disable_warnings()    # use sudo pip install urllib3. This disables the 
 # sudo pip install requests
 # sudo pip install feedparser
 # sudo pip install xmlutils
-# Also need dateutils (But not really)
+# Also need dateutils (But not really, but good)
 
 #./manage.py --accountid=37861030001 --keyname=gannett2 --verbose --passitems=10
 
